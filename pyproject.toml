@@ -5,6 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "beautifulsoup4>=4.14.2",
     "discord-py>=2.6.4",
+    "playwright>=1.56.0",
     "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
 ]
